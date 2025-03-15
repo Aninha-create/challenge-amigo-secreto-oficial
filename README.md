@@ -38,6 +38,7 @@ O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes
 [link](https://vercel.com/ana-rachel-rodrigues-da-costas-projects/challenge-amigo-secreto-oficial)
 
 ## Como usar a aplicação:🎥
+Tudo bem simples e rápido, basta acessar o link do projeto/desafio para ser direcionado a um domínio e poder usufruir da aplicação, assim como o vídeo demonstra é bem fácil o manuseio, digite cada nome por vez no campo de entrada onde está escrito: "Digite o nome do seu amigo" e clique em adicionar, quando tiver mais de três participantes na lista, já é possivel fazer o sorteio clicando em sortear amigo. O resultado do amigo secreto aparecerá na tela. Caso clique em adicionar amigo sem digitar um nome, receberá um alerta; se tentar sortear com menos de três nomes receberá um alerta para adicionar mais nomes. Ao terminar o sorteio é só clicar em reiniciar o sorteio e se divertir mais uma vez!
 
 https://github.com/user-attachments/assets/86969841-98cc-4301-9fb9-5e878cd1feb8
 
