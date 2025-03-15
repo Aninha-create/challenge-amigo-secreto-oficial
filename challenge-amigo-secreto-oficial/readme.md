@@ -33,7 +33,7 @@ O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes
 ![js](./assets/js-talita.svg)  Responsável pela interação do usuário com a interface.
 
 ## 🔗 Link do projeto/desafio amigo secreto!
-Link
+[link](https://github.com/Aninha-create/challenge-amigo-secreto-oficial/tree/main/challenge-amigo-secreto-oficial)
 
 ## Como usar a aplicação:🎥
 
