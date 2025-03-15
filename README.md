@@ -27,6 +27,12 @@ O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes
 - Reiniciar o sorteio: Ao selecionar essa opção todos os campos serão limpos possibilitando um novo sorteio.
   
 ## Tecnologias usadas:🗃️
+![Image](https://github.com/user-attachments/assets/2d89a8a3-586d-4c0d-bb7d-177c46c2226e)
+
+![Image](https://github.com/user-attachments/assets/bed47701-3c6f-40d2-abe1-e26c8ac2343c)
+
+![Image](https://github.com/user-attachments/assets/7d5b958f-212b-4a10-ba74-ab6c0a1b897b)
+
 ## 🔗 Link do projeto/desafio amigo secreto!
 Link
 
