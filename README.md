@@ -1,5 +1,6 @@
 # Projeto/desafio: Amigo secreto!
 ![Image](https://github.com/user-attachments/assets/b82ec47b-3e5a-495d-8a30-5f06324f0570)
+
 Esse projeto foi desenvolvido como requisito obrigatório para conclusão dos módulos formação a partir do zero: iniciante em programação do curso Alura - Oracle Next Education.
 O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes à lista de "amigos" e, em seguida, realizar o sorteio de um amigo secreto.
 ## Tarefas específicas exigidas nesse projeto:👩🏻‍💻
@@ -38,17 +39,18 @@ Link
 
 ## Como usar a aplicação:🎥
 
-
+https://github.com/user-attachments/assets/86969841-98cc-4301-9fb9-5e878cd1feb8
 
 ## Melhorias futura:🤖
 - Tornar a aplicação responsiva a todo tamanho de tela.
 - Funções para:
 1- Não sortear a si mesmo. 
-2- Excluir o resultado anterior antes de selecionar o próximo amigo a ser sorteado, para manter o sigilo.
+2- Excluir o resultado anterior antes de selecionar o próximo amigo a ser sorteado.
 3-Exibir na tela: término do sorteio porque todos os nomes já foram sorteados.
 ## Contato:
 [Linkedin](https://www.linkedin.com/in/ana-rachel-rodrigues-da-costa-analista-de-dados/) 
 
 ## Desenvolvedora: 
 ![Image](https://github.com/user-attachments/assets/5525fa43-7473-46e3-9fa4-032416d9eca5)
-Ana Costa
+
+Ana Costa &#x1F643; &#x1F642;
