@@ -50,5 +50,5 @@ Link
 [Linkedin](https://www.linkedin.com/in/ana-rachel-rodrigues-da-costa-analista-de-dados/) 
 
 ## Desenvolvedora: 
-![Image](https://github.com/user-attachments/assets/06ee803a-c01c-460a-9f12-2506db2d12f7)
+![Image](https://github.com/user-attachments/assets/5525fa43-7473-46e3-9fa4-032416d9eca5)
 Ana Costa
