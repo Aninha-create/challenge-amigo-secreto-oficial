@@ -50,7 +50,8 @@ https://github.com/user-attachments/assets/86969841-98cc-4301-9fb9-5e878cd1feb8
 ## Contato:
 [Linkedin](https://www.linkedin.com/in/ana-rachel-rodrigues-da-costa-analista-de-dados/) 
 
-## Desenvolvedora: 
+## DevBaby 
 ![Image](https://github.com/user-attachments/assets/5525fa43-7473-46e3-9fa4-032416d9eca5)
 
-Ana Costa &#x1F643; &#x1F642;
+Ana Costa &#x1F643;&#x1F642;
+Engatinhando com perseverança no universo da tecnologia! 👶🏼
