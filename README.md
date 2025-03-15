@@ -35,7 +35,7 @@ O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes
 ![Image](https://github.com/user-attachments/assets/7d5b958f-212b-4a10-ba74-ab6c0a1b897b)
 
 ## 🔗 Link do projeto/desafio amigo secreto!
-Link
+[link](https://vercel.com/ana-rachel-rodrigues-da-costas-projects/challenge-amigo-secreto-oficial)
 
 ## Como usar a aplicação:🎥
 
