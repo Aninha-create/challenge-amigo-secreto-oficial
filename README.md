@@ -1,5 +1,5 @@
 # Projeto/desafio: Amigo secreto!
-
+![Image](https://github.com/user-attachments/assets/b82ec47b-3e5a-495d-8a30-5f06324f0570)
 Esse projeto foi desenvolvido como requisito obrigatório para conclusão dos módulos formação a partir do zero: iniciante em programação do curso Alura - Oracle Next Education.
 O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes à lista de "amigos" e, em seguida, realizar o sorteio de um amigo secreto.
 ## Tarefas específicas exigidas nesse projeto:👩🏻‍💻
