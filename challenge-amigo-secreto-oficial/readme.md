@@ -48,7 +48,7 @@ O objetivo é criar uma aplicação web onde os usuários possam adicionar nomes
 ## Contato:
  
 [Linkedin](https://www.linkedin.com/in/ana-rachel-rodrigues-da-costa-analista-de-dados/)    
-[Discord](https://discord.com/channels/@me)
+
 
 
 
